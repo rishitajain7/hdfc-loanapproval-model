@@ -1,7 +1,9 @@
 Loan Approval Prediction Model
 
 📌 Project Overview
-This project predicts whether a loan will be approved based on applicant data.
+This project is a Machine Learning model that predicts whether a loan application will be approved or not based on applicant details.
+It uses data preprocessing, feature scaling, and a trained model to make predictions.
+
 
 📁 Files
 - hdfc_train.py → training model
